@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+•  TodoMaster 
+Developed a modern web application to help users manage tasks efficiently with a user-friendly interface and responsive design.
+•	Technology Stack: React.js, Tailwind CSS, Git, Vite, Node.js
+•	Features: Task management (add, edit, delete, mark as complete), responsive design for optimal usability across devices, real-time updates without page refresh, data persistence (tasks removed when marked done), dark mode for accessibility, notifications for upcoming and overdue tasks, search and filter functionality based on status or due date
